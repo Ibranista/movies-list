@@ -18,13 +18,3 @@ This project is a Vue 3 application created by **Ibrahim Kedir**. It is a movie 
 3. **CardImage**: Used to display movie poster images with captions.
 4. **CardHeader**: Used for movie title and additional information.
 5. **Dropdown**: Used for sorting options.
-
-## Project Setup
-
-### Prerequisites
-
-- Node.js (v16 or later)
-- Vue CLI or Vite
-- API key for the YT Movies API
-
-### Installation
